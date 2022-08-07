@@ -8,5 +8,4 @@ function Todo({todo,index,remove}){
     {todo.text}
     <span>(-)</span>
   </div>)
-
 }
