@@ -13,7 +13,7 @@ code {
 }
 
 .app {
-  background: #209cee;
+  background: green;
   padding: 30px;
   height: 100vh;
 }
@@ -26,7 +26,7 @@ code {
 }
 
 .todo{
-  background: #fff;
+  background: lightseagreen;
   box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
   padding: 3px 10px;
   font-size: 24px;
@@ -38,6 +38,7 @@ code {
 }
 
 .input{
+  background: skyblue;
   width: 100%;
   box-sizing: border-box;
   border: 0;
